@@ -1,16 +1,20 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Education Project 
 
-> A brief description of what the project does and its purpose.
+> This project aims to analyze the socioeconic factors associated withh higher (or lower) ACT scores. 
 
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project addresses inequality of educational opportunity in U.S. high schools. Here we will focus on average student performance on the ACT or SAT exams that students take as part of the college application process.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+We expect a range of school performance on these exams, but is school performance associated with socioeconomic factors?
+
+I will all see if there is an association between ACT score and student-teacher ratio. 
+
+- **Objective:** To analyze what kind of socioeconmic factors, if any, affect average ACT score. 
+- **Domain:** Education
+- **Key Techniques:** Regression
 
 ---
 
@@ -28,8 +32,8 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
+- **Source:** https://www.edgap.org/#5/37.875/-96.987, https://nces.ed.gov/ccd/pubschuniv.asp, https://catalog.data.gov/ 
+- **Description:** This project utilizes 3 data sets EdGap_data.xlsx, ccd_sch_029_1617_w_1a_11212017.csv, and report_card.csv. The primary data set is the EdGap data set from EdGap.org. This data set from 2016 includes information about average ACT or SAT scores for schools and several socioeconomic characteristics of the school district. The secondary data set is basic information about each school from the National Center for Education Statistics. The thirs data set includes Report Card information of the student to teacher ratio for the 2017-18 through 2023-24 school years. Data is disaggregated by school, LEA, Educational Service District, and the state level. Please review the notes below for more information. 
 - **License:** (if applicable)
 
 ---
@@ -48,7 +52,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Maya Silver - [@mcsilver99](https://github.com/mcsilver99)
 
 ---
 
