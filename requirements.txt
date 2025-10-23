@@ -10,7 +10,7 @@ seaborn
 # Machine Learning
 scikit-learn
 statsmodels
-
+Sklearn
 
 # Jupyter & Development
 jupyter
